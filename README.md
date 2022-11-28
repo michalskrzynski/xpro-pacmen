@@ -21,4 +21,4 @@ and controlled by the class object.
 
 ## License
 
-The project is under MIT license.
+The project is under MIT license. See LICENSE file.
